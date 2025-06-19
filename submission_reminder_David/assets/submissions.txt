@@ -3,8 +3,17 @@ Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
+<<<<<<< HEAD
+=======
+John, Git, not submitted
+Jane, Git, submitted
+Alex, Git, not submitted
+>>>>>>> 83416da (Update submissions)
 Mugisha, Git, not submitted
 Sam, Shell Navigation, Submitted
 Robert, Git, Submitted
 David, Shell, submitted
+<<<<<<< HEAD
 Mutoni, Shell Navigation, not submitted
+=======
+>>>>>>> 83416da (Update submissions)
